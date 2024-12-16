@@ -5,7 +5,7 @@ import customtkinter as ctk
 #importing modules
 from DMLExecutor import dml
 from DQLExecutor import dql
-from TableDescription import table
+from MySQL.TableDescription import table
 
 #creating main window
 window = ctk.CTk()
