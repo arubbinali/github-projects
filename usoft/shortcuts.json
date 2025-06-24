@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "GitHub",
+    "path": "https://github.com",
+    "is_web": true,
+    "icon": "code",
+    "pinned": true
+  },
+  {
+    "id": 2,
+    "name": "Discord",
+    "path": "https://discord.com",
+    "is_web": true,
+    "icon": "chat",
+    "pinned": false
+  }
+]
